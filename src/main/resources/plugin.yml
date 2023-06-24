@@ -1,0 +1,13 @@
+name: DashViewerSMP
+version: '${project.version}'
+main: github.itsbeary.dashviewersmp.DashViewerSMP
+api-version: 1.19
+commands:
+  clearchat:
+    description: "A command to clear chat!"
+  mutechat:
+    description: "A command to mute chat!"
+  help:
+    description: "A command to help you around the server!"
+  dashreload:
+    description: "A command to reload the plugin configuration."

@@ -1,0 +1,29 @@
+# The message in the multiplayer screen
+motd: "&4&lJustDash Viewer SMP!\n&7&oConnect today! 1.20.1"
+
+# Autobroadcast Intervals
+autobroadcast-interval: 300 # seconds
+
+# All the messages shown in /help
+help-information:
+  - " "
+  - "&c/rules &f- View the SMP rules (also viewable at spawn)"
+  - "&c/pronouns set &f- Set your pronouns in the tablist and chat"
+  - "&c/back /spawn &f- Return to deathpoint/spawnpoint"
+  - "&c/tpa &f- Request to teleport to another player"
+  - "&c/sethome /home &f- Create and teleport to your home"
+  - "&c/nick &f- Change your nickname in tab/chat"
+  - "&c/pvp toggle &f- Toggle your personal PVP settings"
+  - " "
+  - "To claim land, &cright click on both corners of your home with a golden shovel"
+  - "Use &c/trust <player> &fto allow another player access to your land!"
+  - " "
+  - "Contact &ca moderator &ffor any assistance!"
+  - " "
+
+announcements:
+  - "\n&7Shoutout to &aBisectHosting &7for powering the &cJustDash Viewer SMP&7!\n"
+  - "\n&7Use &c/pronouns set &7to show your pronouns in tab!\n"
+  - "\n&7Use &c/nick &7to change your name in chat!\n"
+  - "\n&7Please make sure to follow the &c/rules&7!\n"
+  - "\n&cPVP is disabled by default! &7Use &c/toggle pvp &7to enable it!\n"
